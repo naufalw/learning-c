@@ -1,0 +1,10 @@
+[
+    {
+        "label": "Debug with GDB",
+        "adapter": "gdb",
+        "program": "stringkopi.out",
+        "args": [],
+        "cwd": "$ZED_WORKTREE_ROOT",
+        "stopAtEntry": false
+    }
+]
